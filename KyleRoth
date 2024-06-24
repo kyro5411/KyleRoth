@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nightingale College FNP Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Nightingale College Family Nurse Practitioner Portfolio</h1>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="#introduction">Introduction</a></li>
+            <li><a href="#professional-development">Professional Development</a></li>
+            <li><a href="#graduate-education-experience">Graduate Education Experience</a></li>
+        </ul>
+    </nav>
+    <main>
+        <section id="introduction">
+            <h2>Introduction</h2>
+            <article>
+                <h3>Biosketch</h3>
+                <p>I am a dedicated Family Nurse Practitioner student at Nightingale College. With a strong passion for patient care and professional development, I strive to enhance my skills and knowledge to provide exceptional healthcare services.</p>
+            </article>
+            <article>
+                <h3>Professional Goals</h3>
+                <p><strong>Short-term Goals:</strong></p>
+                <ul>
+                    <li>Complete my Family Nurse Practitioner program with high distinction.</li>
+                    <li>Gain certification in advanced cardiac life support (ACLS).</li>
+                </ul>
+                <p><strong>Long-term Goals:</strong></p>
+                <ul>
+                    <li>Work in a community healthcare setting to provide accessible healthcare to underserved populations.</li>
+                    <li>Pursue a Doctor of Nursing Practice (DNP) degree.</li>
+                </ul>
+            </article>
+            <article>
+                <h3>Resume</h3>
+                <p><a href="resume.pdf" target="_blank">Download my resume</a></p>
+            </article>
+        </section>
+        <section id="professional-development">
+            <h2>Professional Development</h2>
+            <article>
+                <h3>Licensure/Certifications/Continuing Education</h3>
+                <p><a href="licenses.pdf" target="_blank">View my licenses and certifications</a></p>
+            </article>
+            <article>
+                <h3>Professional Membership/Committee Involvement/Publications/Presentations/Honors/Awards/Recognition</h3>
+                <p><a href="memberships.pdf" target="_blank">View my professional memberships and recognitions</a></p>
+            </article>
+            <article>
+                <h3>Professional Evaluations (optional)</h3>
+                <p>Not available at the moment.</p>
+            </article>
+            <article>
+                <h3>Community Involvement</h3>
+                <p>Details about my involvement in community activities and events.</p>
+            </article>
+        </section>
+        <section id="graduate-education-experience">
+            <h2>Graduate Education Experience</h2>
+            <article>
+                <h3>Leadership</h3>
+                <p>Summary describing leadership experience at Nightingale College with examples of activities and assignments.</p>
+            </article>
+            <article>
+                <h3>NONPF Competencies</h3>
+                <p>Details and artifacts demonstrating competence in NONPF competencies.</p>
+            </article>
+            <article>
+                <h3>QSEN Competencies</h3>
+                <p>Details and artifacts demonstrating competence in QSEN competencies.</p>
+            </article>
+            <article>
+                <h3>AACN Essentials</h3>
+                <p>Details and artifacts demonstrating competence in AACN Essentials.</p>
+            </article>
+            <article>
+                <h3>Program Goals</h3>
+                <p>Examples of how I have met the program goals.</p>
+            </article>
+            <article>
+                <h3>Clinical Hours</h3>
+                <p>Summary of clinical hours, including a clinical log and pertinent clinical documentation.</p>
+            </article>
+            <article>
+                <h3>Capstone Work</h3>
+                <p>Introduction to my capstone work, including the latest iteration of my written capstone and the PowerPoint presentation.</p>
+            </article>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Nightingale College Family Nurse Practitioner Program. All rights reserved.</p>
+    </footer>
+</body>
+</html>
